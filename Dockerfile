@@ -11,7 +11,7 @@ COPY . /app
 WORKDIR /app
 
 EXPOSE 3000
-ENV TEST=ui
+ENV HELLO="Hello, I am inside a docker container :)"
 
 CMD [ "python", "hello.py" ]
 # CMD ["python", "-m", "ptvsd", "--host", "localhost", "--port" ,"3000" ,"--wait" ,"-m" ,"hello.py"]
