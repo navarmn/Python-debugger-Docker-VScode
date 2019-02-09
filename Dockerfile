@@ -7,7 +7,6 @@ RUN pip install -U ptvsd
 COPY requirements.txt .
 RUN pip install -r requirements.txt
 
-COPY . /app
 WORKDIR /app
 
 EXPOSE 3000
