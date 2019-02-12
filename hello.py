@@ -5,6 +5,5 @@ import os
 
 print('Hello, World')
 print(os.environ.get('HELLO'))
-print('teu cu')
 
-print('raba uaheuhaeuae raba')
+

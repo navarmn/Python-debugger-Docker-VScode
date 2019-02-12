@@ -11,15 +11,6 @@
                 "kind": "build",
                 "isDefault": true
             }
-        },
-        {
-            "label": "debug-out",
-            "type": "shell",
-            "command": "make debug",
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
         }
     ]
 }
