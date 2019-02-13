@@ -28,4 +28,8 @@ Make the project! The [`Makefile`](Makefile) has three types os configs: `instal
 
 The whole setup is exhibit down bellow
 
+![How-to](how-to.gif)
+
+### More info?
+
 This a quite simple example more advance stuffed refer to [this link](https://github.com/DonJayamanne/vscode-python-samples)
